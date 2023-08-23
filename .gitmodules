@@ -1,0 +1,27 @@
+[submodule "UART-Communication-Two-Atmega32"]
+	path = UART-Communication-Two-Atmega32
+	url = git@github.com:Piistachyoo/UART-Communication-Two-Atmega32.git
+[submodule "Digital-Thermometer-ATMEGA32"]
+	path = Digital-Thermometer-ATMEGA32
+	url = git@github.com:Piistachyoo/Digital-Thermometer-ATMEGA32.git
+[submodule "Stopwatch-Atmega32"]
+	path = Stopwatch-Atmega32
+	url = git@github.com:Piistachyoo/Stopwatch-Atmega32.git
+[submodule "calculator-atmega32"]
+	path = calculator-atmega32
+	url = git@github.com:Piistachyoo/calculator-atmega32.git
+[submodule "Parking-Sensor-ATMEGA32"]
+	path = Parking-Sensor-ATMEGA32
+	url = git@github.com:Piistachyoo/Parking-Sensor-ATMEGA32.git
+[submodule "AVR-Atmega32-drivers"]
+	path = AVR-Atmega32-drivers
+	url = git@github.com:Piistachyoo/AVR-Atmega32-drivers.git
+[submodule "Obstacle_Avoidance_Car"]
+	path = Obstacle_Avoidance_Car
+	url = git@github.com:Piistachyoo/Obstacle_Avoidance_Car.git
+[submodule "MobileControlledHome"]
+	path = MobileControlledHome
+	url = git@github.com:Piistachyoo/MobileControlledHome.git
+[submodule "ITI_AVR_Drivers"]
+	path = ITI_AVR_Drivers
+	url = git@github.com:Piistachyoo/ITI_AVR_Drivers.git
